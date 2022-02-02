@@ -36,11 +36,10 @@ I am contributing to building **"easy-to-use"**, **"energy efficient"**, and  **
 
 ## Professional Experience
 
-- Software Engineer | China Mobile (Chengdu) Industrial Research Institute
+- Software Engineer, China Mobile (Chengdu) Industrial Research Institute
   - Jul. 2020 - May.2021
   - Developed a smart cellular base station management system covering over 1.6 million stations in southeastern China.
-
-- Student Participant | Summer 2021 of Open Source Promotion Plan
+- Student Participant, Summer 2021 of Open Source Promotion Plan
   - Jul. 2021 - Nov.2021
   - Developed a system to compute the theoretical amount of multiply-add operations in convolutional neural networks for MindSpore. [[code]](https://github.com/swagshaw/mindspore-flops)
 
