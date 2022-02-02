@@ -34,7 +34,7 @@ I am contributing to building **easy-to-use**, **energy efficient**, and  **low 
 
 ## Professional Experience
 
-- Software Engineer| China Mobile (Chengdu) Industrial Research Institute
+- Software Engineer | China Mobile (Chengdu) Industrial Research Institute
   - Jul. 2020 - May.2021
   - Developed a smart cellular base station management system covering over 1.6 million stations in southeastern China.
 
