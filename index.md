@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Yang (Jan) Xiao, a software engineer, and a growing AI scientist.
+Hello, I am Yang (Shaw) Xiao, a software engineer, and a growing AI scientist.
 My Life motto is: Get everything, you have to pay all, conquer all things.
 
 I am a 1st-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
