@@ -4,15 +4,30 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Yang(Jan) Xiao, a software engineer and a growing AI scientist. My Life motto is: Get everything, you have to pay all,conquer all things.
-I am a 1st-year CS Master student at [NTU SG](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
+Hello, I am Yang(Jan) Xiao, a software engineer, and a growing AI scientist. My Life motto is: Get everything, you have to pay all, conquer all things.
+I am a 1st-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
 I obtained my B.Eng degree from Jilin University.
-I am contributing to bulid **easy-to-use**, **energy efficient** and  **low latency** next gerenation AI system. At this moment, I mainly work in the data-efficient speech system. Specially, continual learning, active learning apply in speech domain.
+I am contributing to building **easy-to-use**, **energy efficient**, and  **low latency** next-generation AI systems. At this moment, I mainly work in the data-efficient speech system. Specifically, continual learning, active learning apply in the speech domain.
 
 ## Research Interests
 
 - **Machine Learning System:** Deep Learning Inference, Model Serving/Deployment System, Edge-cloud Collaborative System
 - **Data-Centric AI:** Incremental Learning, Active Learning, Few-shot Learning
+
+## Experience
+
+- College of Computer Science and Technology, Jilin University, Changchun, China 
+  - Aug.2016 - Jul.2020 
+  - B.E. in Internet of Things Engineering
+  - Advisor: Professor Xuanjing Shen
+- Peking University, Beijing, China
+  - Jun.2020 - Aug.2020
+  - Summer Term Enrollment
+  - Advisor: Professor Hao Dan
+- Nanyang Technological University, Singapore, Singapore  
+  - Aug.2021-Present
+  - Master of Science (Artificial Intelligence)
+  - Advisor: Professor Chng Eng Siong
 
 <!-- ## News
 
