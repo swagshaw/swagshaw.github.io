@@ -4,23 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, I am Yang(Jan) Xiao, a software engineer and a growing AI scientist. My Life motto is: Get everything, you have to pay all,conquer all things.
+I am a 1st-year CS Master student at [NTU SG](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
+I obtained my B.Eng degree from Jilin University.
+I am contributing to bulid `easy-to-use`, `energy efficient` and  `low latency` next gerenation AI system. At this moment, I mainly work in the data-efficient speech system. Specially, continual learning, active learning apply in speech domain.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning System:** Deep Learning Inference, Model Serving/Deployment System, Edge-cloud Collaborative System
+- **Data-Centric AI:** Incremental Learning, Active Learning, Few-shot Learning
 
-## News
+<!-- ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Dec. 2021]** Our paper about incremental learning is accepted to CVPR 2020. -->
+<!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-## Publications
+<!-- ## Publications -->
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
@@ -42,9 +45,9 @@ I am a Ph.D. student at ...
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
-## Services
+<!-- ## Services
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Journal Reviewers: T-PAMI, IJCV. -->
