@@ -8,7 +8,7 @@ Hello, I am Yang (Jan) Xiao, a software engineer, and a growing AI scientist.
 My Life motto is: Get everything, you have to pay all, conquer all things.
 
 I am a 1st-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
-I obtained my B.Eng degree from Jilin University.
+I obtained my B.Eng degree from Jilin University. Then I worked as a Java software development engineer at China Mobile for one year. 
 
 I am contributing to building **easy-to-use**, **energy efficient**, and  **low latency** next-generation AI systems. At this moment, I mainly work in the data-efficient speech system. Specifically, continual learning, active learning apply in the speech domain.
 
