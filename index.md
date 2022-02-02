@@ -19,7 +19,7 @@ I am contributing to building **easy-to-use**, **energy efficient**, and  **low 
 
 ## Education
 
-- College of Computer Science and Technology, Jilin University, Changchun, China 
+- Jilin University, Changchun, China 
   - Aug.2016 - Jul.2020 
   - B.E. in Internet of Things Engineering
   - Advisor: Professor Xuanjing Shen
