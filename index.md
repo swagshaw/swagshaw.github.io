@@ -4,10 +4,12 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Yang(Jan) Xiao, a software engineer, and a growing AI scientist.  
-My Life motto is: Get everything, you have to pay all, conquer all things.  
+Hello, I am Yang (Jan) Xiao, a software engineer, and a growing AI scientist.
+My Life motto is: Get everything, you have to pay all, conquer all things.
+
 I am a 1st-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
-I obtained my B.Eng degree from Jilin University.  
+I obtained my B.Eng degree from Jilin University.
+
 I am contributing to building **easy-to-use**, **energy efficient**, and  **low latency** next-generation AI systems. At this moment, I mainly work in the data-efficient speech system. Specifically, continual learning, active learning apply in the speech domain.
 
 ## Research Interests
@@ -15,7 +17,7 @@ I am contributing to building **easy-to-use**, **energy efficient**, and  **low 
 - **Machine Learning System:** Deep Learning Inference, Model Serving/Deployment System, Edge-cloud Collaborative System
 - **Data-Centric AI:** Incremental Learning, Active Learning, Few-shot Learning
 
-## Experience
+## Education
 
 - College of Computer Science and Technology, Jilin University, Changchun, China 
   - Aug.2016 - Jul.2020 
@@ -26,9 +28,20 @@ I am contributing to building **easy-to-use**, **energy efficient**, and  **low 
   - Summer Term Enrollment
   - Advisor: Professor Hao Dan
 - Nanyang Technological University, Singapore, Singapore  
-  - Aug.2021-Present
+  - Aug.2021 - Present
   - Master of Science (Artificial Intelligence)
   - Advisor: Professor Chng Eng Siong
+
+## Professional Experience
+
+- Software Engineer| China Mobile (Chengdu) Industrial Research Institute
+  - Jul. 2020 - May.2021
+  - Developed a smart cellular base station management system covering over 1.6 million stations in southeastern China.
+
+- Student Participant | Summer 2021 of Open Source Promotion Plan
+  - Jul. 2021 - Nov.2021
+  - Developed a system to compute the theoretical amount of multiply-add operations in convolutional neural networks for MindSpore. [[code]](https://github.com/swagshaw/mindspore-flops)
+
 
 <!-- ## News
 
