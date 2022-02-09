@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Yang (Shaw) Xiao, a software engineer, and a growing AI scientist.
-My Life motto is: Get everything, you have to pay all, conquer all things.
+Hello, I am Yang (Shaw) Xiao, exploring the farthest one of all the shortcuts in the world--computer system research.
 
-I am a 1st-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
-I obtained my B.Eng degree from Jilin University. Then I worked as a Java software development engineer at China Mobile for one year. 
+I am a first-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
+I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
 
-I am contributing to building **"easy-to-use"**, **"energy efficient"**, and  **"low latency"** next-generation AI systems. At this moment, I mainly work in the data-efficient speech system. Specifically, continual learning, active learning apply in the speech domain.
+Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning, active learning apply in the speech domain to make the learning system continual, real-time and efficient. 
 
 **I'm actively seeking for a PhD position.**
 
 ## Research Interests
 
-- **Machine Learning System:** Deep Learning Inference, Model Serving/Deployment System, Edge-cloud Collaborative System
+- **Machine Learning System:** Deep Learning Inference, Model Serving System, Edge-cloud Collaborative System
 - **Data-Centric AI:** Incremental Learning, Active Learning, Few-shot Learning
 
 ## Education
