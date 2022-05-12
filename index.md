@@ -11,7 +11,7 @@ I obtained my B.Eng degree from Jilin University. Then I worked as a software de
 
 Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning, active learning apply in the speech domain to make the learning system continual, real-time and efficient. 
 
-**I'm actively seeking for a PhD position.**
+**I'm actively seeking for a machine learning engineer or data scientist position.**
 
 ## Research Interests
 
