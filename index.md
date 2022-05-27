@@ -52,33 +52,34 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-<!-- ## Publications -->
+## Publications
 
-<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Yang Xiao**, Nana Hou, Eng Siong Chng
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  **Summitted to the 23rd INTERSPEECH Conference. 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/abs/2203.16361)] [[Code](https://github.com/swagshaw/Rainbow-Keywords)] 
+<!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Small Footprint Multi-channel ConvMixer for Keyword Spotting with Centroid Based Awareness**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+    **Summitted to the 23rd INTERSPEECH Conference. 2022**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/abs/2204.05445)] 
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+<!-- - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
   Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] --> -->
 
-<!-- ## Services
+## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV. -->
+- Volunteers: ICASSP 2022.
+<!-- - Journal Reviewers: T-PAMI, IJCV. -->
