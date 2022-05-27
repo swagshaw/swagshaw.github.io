@@ -56,20 +56,20 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
 
 - **Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting**
   <br>
-  **Yang Xiao**, Nana Hou, Eng Siong Chng
+  - **Yang Xiao**, Nana Hou, Eng Siong Chng
   <br>
-  **Summitted to the 23rd INTERSPEECH Conference. 2022**.
+  - **Summitted to the 23rd INTERSPEECH Conference. 2022**.
   <br>
-  [[PDF](https://arxiv.org/abs/2203.16361)] [[Code](https://github.com/swagshaw/Rainbow-Keywords)] 
+  - [[PDF](https://arxiv.org/abs/2203.16361)] [[Code](https://github.com/swagshaw/Rainbow-Keywords)] 
 <!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - **Small Footprint Multi-channel ConvMixer for Keyword Spotting with Centroid Based Awareness**
   <br>
-  Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
+  - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
   <br>
-    **Summitted to the 23rd INTERSPEECH Conference. 2022**.
+  - **Summitted to the 23rd INTERSPEECH Conference. 2022**.
   <br>
-  [[PDF](https://arxiv.org/abs/2204.05445)] 
+  - [[PDF](https://arxiv.org/abs/2204.05445)] 
 
 <!-- - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
