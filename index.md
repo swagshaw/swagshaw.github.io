@@ -13,6 +13,10 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
 
 **I'm actively seeking for a machine learning engineer or data scientist position.**
 
+## News
+
+- **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
+
 ## Research Interests
 
 - **Machine Learning System:** Deep Learning Inference, Model Serving System, Edge-cloud Collaborative System
@@ -44,13 +48,6 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
   - Developed a system to compute the theoretical amount of multiply-add operations in convolutional neural networks for MindSpore.
   - [[Code](https://github.com/swagshaw/mindspore-flops)]
 
-
-## News
-
-- **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
-<!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 ## Publications
 
