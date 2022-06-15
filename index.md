@@ -45,9 +45,9 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
   - [[Code](https://github.com/swagshaw/mindspore-flops)]
 
 
-<!-- ## News
+## News
 
-- **[Dec. 2021]** Our paper about incremental learning is accepted to CVPR 2020. -->
+- **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
 <!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
@@ -58,7 +58,7 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
   <br>
   - **Yang Xiao**, Nana Hou, Eng Siong Chng
   <br>
-  - **Summitted to the 23rd INTERSPEECH Conference. 2022**.
+  - **Accepted to the 23rd INTERSPEECH Conference. 2022**.
   <br>
   - [[PDF](https://arxiv.org/abs/2203.16361)] [[Code](https://github.com/swagshaw/Rainbow-Keywords)] 
 <!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
