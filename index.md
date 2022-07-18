@@ -50,6 +50,14 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
 
 ## Publications
 
+- **Continual Learning For On-Device Environmental Sound Classification**
+  <br>
+  - **Yang Xiao***, Xubo Liu*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang
+  <br>
+  - **Submitted to the DCASE Workshop. 2022**.
+  <br>
+  - [[PDF](https://arxiv.org/abs/2207.07429)] [[Code](https://github.com/swagshaw/ASC-CL)] 
+
 - **Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting**
   <br>
   - **Yang Xiao**, Nana Hou, Eng Siong Chng
@@ -63,9 +71,11 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
   <br>
   - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
   <br>
-  - **Summitted to the 23rd INTERSPEECH Conference. 2022**.
+  - **Submitted to the 23rd INTERSPEECH Conference. 2022**.
   <br>
   - [[PDF](https://arxiv.org/abs/2204.05445)] 
+
+
 
 <!-- - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
