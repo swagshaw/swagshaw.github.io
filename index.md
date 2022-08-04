@@ -52,7 +52,7 @@ Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"rob
 
 - **Continual Learning For On-Device Environmental Sound Classification**
   <br>
-  - **Yang Xiao***, Xubo Liu*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang
+  - **Yang Xiao\***, Xubo Liu\*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang
   <br>
   - **Submitted to the DCASE Workshop. 2022**.
   <br>
