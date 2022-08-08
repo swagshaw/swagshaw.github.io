@@ -4,12 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Yang (Jan) Xiao, exploring the farthest one of all the shortcuts in the world--computer system research.
+Hello, I am Yang (Jan) Xiao, a first-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
 
-I am a first-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). 
-I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
-
-Shaw is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning, active learning apply in the speech domain to make the learning system continual, real-time and efficient. 
+Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning, active learning apply in the speech domain to make the learning system continual, real-time and efficient. 
 
 
 ## News
