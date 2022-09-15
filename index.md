@@ -69,8 +69,6 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
   <br>
   - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
   <br>
-  - **Submitted to the 23rd INTERSPEECH Conference. 2022**.
-  <br>
   - [[PDF](https://arxiv.org/abs/2204.05445)] 
 
 
