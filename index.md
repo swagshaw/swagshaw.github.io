@@ -10,9 +10,9 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
 
 
 ## News
-
-- **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
 - **[Sep. 2022]** Our paper about incremental learning and environmental sound classification is accepted to DCASE Workshop 2022.
+- **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
+
 
 ## Research Interests
 
