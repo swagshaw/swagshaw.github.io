@@ -12,6 +12,7 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
 ## News
 
 - **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
+- **[Sep. 2022]** Our paper about incremental learning and environmental sound classification is accepted to DCASE Workshop 2022.
 
 ## Research Interests
 
@@ -51,7 +52,7 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
   <br>
   - **Yang Xiao\***, Xubo Liu\*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang
   <br>
-  - **Submitted to the DCASE Workshop. 2022**.
+  - **Accepted to the DCASE Workshop. 2022**.
   <br>
   - [[PDF](https://arxiv.org/abs/2207.07429)] [[Code](https://github.com/swagshaw/ASC-CL)] 
 
