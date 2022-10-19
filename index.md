@@ -70,6 +70,11 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
   - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
   <br>
   - [[PDF](https://arxiv.org/abs/2204.05445)] 
+- **MISP Challenge 2021: Multimodal Wakeup-Word Detection for Far-Field and Noisy Environment—Technological Report**
+  <br>
+  - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Eng Siong Chng
+  <br>
+  - [[PDF](https://mispchallenge.github.io/papers/task1/Nanyang_final_task1.pdf)] 
 
 
 
