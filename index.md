@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-*——The giant looks in the mirror and sees nothing.*
+*——Do not go gentle into that good night.*
 ## About Me
 
 Hello, I am Yang (Jan) Xiao, a first-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
