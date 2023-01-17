@@ -4,7 +4,9 @@ layout: homepage
 *——Do not go gentle into that good night.*
 ## About Me
 
-Hello, I am Yang (Jan) Xiao, a first-year CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
+Hello, I am Yang (Jan) Xiao, Xiao is my last name. Now I am a software engineer at [Fortemedia](https://www.fortemedia.com/).
+
+Recently I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
 
 Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning, active learning apply in the speech domain to make the learning system continual, real-time and efficient. 
 
@@ -35,7 +37,8 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
   - Advisor: Professor Chng Eng Siong
 
 ## Professional Experience
-
+- Software Engineer, Fortemedia Singapore
+  - Jan.2023 - Present
 - Software Engineer, China Mobile (Chengdu) Industrial Research Institute
   - Jul. 2020 - May.2021
   - Developed a smart cellular base station management system covering over 1.6 million stations in southeastern China.
