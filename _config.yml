@@ -1,6 +1,6 @@
 title: Yang Xiao
-position: Master Student
-affiliation: Nanyang Technological University
+position: Software Engineer
+affiliation: Fortemedia Singapore
 email: yxiao009 (at) e.ntu.edu.sg
 keywords: xiao yang ntu, yang xiao ntu
 google_scholar: https://scholar.google.com/
@@ -10,6 +10,6 @@ avatar: ./assets/img/微信图片_20220915200832.jpg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/NTU.jpg
 favicon_dark: ./assets/img/NTU.jpg
-description: Yang (Jan) Xiao is a 1-st year master student at NTU. His interest is always focus on MLSys.
+description: Yang (Jan) Xiao is a software engineer of audio and speech research. His interest is always focus on MLSys.
 # canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
