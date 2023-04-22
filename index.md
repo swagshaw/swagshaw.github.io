@@ -4,7 +4,7 @@ layout: homepage
 *——Do not go gentle into that good night.*
 ## About Me
 
-Hello, I am Yang (Jan) Xiao, Xiao is my last name. Now I am a software engineer at [Fortemedia](https://www.fortemedia.com/).
+Hello, I am Yang (Austin) Xiao, Xiao is my last name. Now I am a software engineer at [Fortemedia](https://www.fortemedia.com/).
 
 Recently I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
 
