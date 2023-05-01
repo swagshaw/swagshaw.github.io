@@ -12,6 +12,8 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
 
 
 ## News
+- **[May. 2023]** Invited to serve as a reviewer for WASPAA 2023.
+-** [Jan. 2023]** Join the Fortemedia Singapore team as a software engineer.
 - **[Sep. 2022]** Our paper about incremental learning and environmental sound classification is accepted to DCASE Workshop 2022.
 - **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
 
