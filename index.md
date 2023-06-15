@@ -13,6 +13,7 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
 
 ## News
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
+- **[May. 2023]** Achieved the 4th place on the DCASE 2023 Challenge on Task 4a: ["Sound Event Detection with Weak Labels and Synthetic Soundscapes"](https://dcase.community/challenge2023/task-sound-event-detection-with-weak-labels-and-synthetic-soundscapes-results).
 - **[May. 2023]** Invited to serve as a reviewer for WASPAA 2023.
 - **[Jan. 2023]** Join the Fortemedia Singapore team as a software engineer.
 - **[Sep. 2022]** Our paper about incremental learning and environmental sound classification is accepted to DCASE Workshop 2022.
@@ -53,6 +54,19 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
 
 
 ## Publications
+- **FMSG Submission For DCASE 2023 Challenge Task 4 On Sound Event Detection With Weak Labels And Synthetic Soundscapes**
+  <br>
+  - **Yang Xiao**,Tanmay Khandelwal, Rohan Kumar Das
+  <br>
+  - [[PDF](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Xiao_42_t4a.pdf)]
+  
+- **Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness**
+  <br>
+  - Dianwen Ng, **Yang Xiao**, Jia Qi Yip, Zhao Yang, Biao Tian, Qiang Fu, Eng Siong Chng, Bin Ma
+  <br>
+  - **Accepted to the 24rd INTERSPEECH Conference. 2023**.
+  <br>
+  - [[PDF (old_version)](https://arxiv.org/abs/2204.05445)] 
 
 - **Continual Learning For On-Device Environmental Sound Classification**
   <br>
@@ -71,12 +85,6 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
   - [[PDF](https://arxiv.org/abs/2203.16361)] [[Code](https://github.com/swagshaw/Rainbow-Keywords)] 
 <!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-- **Small Footprint Multi-channel ConvMixer for Keyword Spotting with Centroid Based Awareness**
-  <br>
-  - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Biao Tian, Qiang Fu, Eng Siong Chng
-  <br>
-  - [[PDF](https://arxiv.org/abs/2204.05445)] 
-
 - **MISP Challenge 2021: Multimodal Wakeup-Word Detection for Far-Field and Noisy Environment—Technological Report**
   <br>
   - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Eng Siong Chng
@@ -94,6 +102,6 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Services
-
+- Reviewers: WASPAA 2023.
 - Volunteers: ICASSP 2022.
 <!-- - Journal Reviewers: T-PAMI, IJCV. -->
