@@ -12,6 +12,7 @@ Jan is contributing to building **"easy-to-use"**, **"efficient"**, and  **"robu
 
 
 ## News
+- **[Aug. 2023]** Invited to serve as a sub-reviewer for SPECOM 2023. 
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
 - **[May. 2023]** Achieved the 4th place on the DCASE 2023 Challenge on Task 4a: ["Sound Event Detection with Weak Labels and Synthetic Soundscapes"](https://dcase.community/challenge2023/task-sound-event-detection-with-weak-labels-and-synthetic-soundscapes-results).
 - **[May. 2023]** Invited to serve as a reviewer for WASPAA 2023.
