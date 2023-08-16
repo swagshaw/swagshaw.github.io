@@ -67,7 +67,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - **Accepted to the 24rd INTERSPEECH Conference. 2023**.
   <br>
-  - [[PDF (old_version)](https://arxiv.org/abs/2204.05445)] 
+  - [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2023/ng23b_interspeech.pdf)] 
 
 - **Continual Learning For On-Device Environmental Sound Classification**
   <br>
