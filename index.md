@@ -12,6 +12,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## News
+- **[Sep. 2023]** Invited to serve as a reviewer for ICASSP 2024. 
 - **[Aug. 2023]** Invited to serve as a sub-reviewer for SPECOM 2023. 
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
 - **[May. 2023]** Achieved the 4th place on the DCASE 2023 Challenge on Task 4a: ["Sound Event Detection with Weak Labels and Synthetic Soundscapes"](https://dcase.community/challenge2023/task-sound-event-detection-with-weak-labels-and-synthetic-soundscapes-results).
@@ -103,6 +104,6 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Services
-- Reviewers: WASPAA 2023.
+- Reviewers: WASPAA 2023, SPECOM 2023, ICASSP 2024.
 - Volunteers: ICASSP 2022.
 <!-- - Journal Reviewers: T-PAMI, IJCV. -->
