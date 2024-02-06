@@ -12,6 +12,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## News
+- **[Feb. 2024]** Our paper about sound event detection is accepted to ICASSP 2024.
 - **[Sep. 2023]** Invited to serve as a reviewer for ICASSP 2024. 
 - **[Aug. 2023]** Invited to serve as a sub-reviewer for SPECOM 2023. 
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
@@ -56,6 +57,12 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## Publications
+- **Dual Knowledge Distillation for Efficient Sound Event Detection**
+    <br>
+  - **Yang Xiao**,Rohan Kumar Das
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2402.02781.pdf)]
+  
 - **FMSG Submission For DCASE 2023 Challenge Task 4 On Sound Event Detection With Weak Labels And Synthetic Soundscapes**
   <br>
   - **Yang Xiao**,Tanmay Khandelwal, Rohan Kumar Das
