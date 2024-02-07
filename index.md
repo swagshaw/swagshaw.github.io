@@ -58,8 +58,10 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 ## Publications
 - **Dual Knowledge Distillation for Efficient Sound Event Detection**
-    <br>
+  <br>
   - **Yang Xiao**,Rohan Kumar Das
+  <br>
+  - **Accepted to the IEEE ICASSP Workshop.2024**.
   <br>
   - [[PDF](https://arxiv.org/pdf/2402.02781.pdf)]
   
