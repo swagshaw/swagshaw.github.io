@@ -14,10 +14,8 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 ## News
 - **[Feb. 2024]** Our paper about sound event detection is accepted to ICASSP 2024.
 - **[Sep. 2023]** Invited to serve as a reviewer for ICASSP 2024. 
-- **[Aug. 2023]** Invited to serve as a sub-reviewer for SPECOM 2023. 
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
 - **[May. 2023]** Achieved the 4th place on the DCASE 2023 Challenge on Task 4a: ["Sound Event Detection with Weak Labels and Synthetic Soundscapes"](https://dcase.community/challenge2023/task-sound-event-detection-with-weak-labels-and-synthetic-soundscapes-results).
-- **[May. 2023]** Invited to serve as a reviewer for WASPAA 2023.
 - **[Jan. 2023]** Join the Fortemedia Singapore team as a software engineer.
 - **[Sep. 2022]** Our paper about incremental learning and environmental sound classification is accepted to DCASE Workshop 2022.
 - **[Jun. 2022]** Our paper about incremental learning and keyword spotting is accepted to INTERSPEECH 2022.
@@ -113,6 +111,5 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Services
-- Reviewers: WASPAA 2023, SPECOM 2023, ICASSP 2024.
-- Volunteers: ICASSP 2022.
+- Reviewers: WASPAA, SPECOM, IALP, ICASSP.
 <!-- - Journal Reviewers: T-PAMI, IJCV. -->
