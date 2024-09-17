@@ -4,7 +4,7 @@ layout: homepage
 *——Do not go gentle into that good night.*
 ## About Me 
 
-Hello, I am Yang (Austin) Xiao, Xiao is my last name. Now I am a software engineer at [Fortemedia](https://www.fortemedia.com/).
+Hello, I am Yang (Austin) Xiao, Xiao is my last name. Now I am an AI engineer at [Fortemedia](https://www.fortemedia.com/).
 
 Recently I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
 
@@ -12,6 +12,8 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## News
+- **[Sep. 2024]** Invited to serve as a reviewer for ICASSP 2025. 
+- **[Aug. 2024]** Our paper about sound event detection is accepted to DCASE Workshop 2024.
 - **[Feb. 2024]** Our paper about sound event detection is accepted to ICASSP 2024.
 - **[Sep. 2023]** Invited to serve as a reviewer for ICASSP 2024. 
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
@@ -55,6 +57,14 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## Publications
+- **WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System**
+  <br>
+  - **Yang Xiao**,Rohan Kumar Das
+  <br>
+  - **Accepted to the DCASE Workshop.2024**.
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2407.03656.pdf)]
+  
 - **Dual Knowledge Distillation for Efficient Sound Event Detection**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
