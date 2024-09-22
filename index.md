@@ -39,12 +39,12 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   - Summer Term Enrollment
   - Advisor: Professor Hao Dan
 - Nanyang Technological University, Singapore, Singapore  
-  - Aug.2021 - Present
+  - Aug.2021 - Jan.2023
   - Master of Science (Artificial Intelligence)
   - Advisor: Professor Chng Eng Siong
 
 ## Professional Experience
-- Software Engineer, Fortemedia Singapore
+- AI Engineer, Fortemedia Singapore
   - Jan.2023 - Present
 - Software Engineer, China Mobile (Chengdu) Industrial Research Institute
   - Jul. 2020 - May.2021
