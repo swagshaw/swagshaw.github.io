@@ -8,9 +8,6 @@ jobs:
       - uses: ruby/setup-ruby@v1.146.0
         with:
           ruby-version: '2.7'
-       # Install specific Bundler version
-      - name: Install Bundler
-        run: gem install bundler -v 2.4.22
       - name: build
         run: script/bootstrap
 #       - name: test
