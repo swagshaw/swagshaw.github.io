@@ -63,7 +63,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - **Accepted to the DCASE Workshop.2024**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2407.03656.pdf)]
+  - [[PDF](https://arxiv.org/pdf/2407.03656.pdf)] [[Project](https://swagshaw.github.io/projects/WILDDESED.html)] [[Code](https://github.com/swagshaw/WildDESED)]
   
 - **Dual Knowledge Distillation for Efficient Sound Event Detection**
   <br>
