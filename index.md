@@ -63,7 +63,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - **Accepted to the DCASE Workshop.2024**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2407.03656.pdf)]
+  - [[PDF](https://arxiv.org/pdf/2407.03656.pdf)] [[Project](https://swagshaw.github.io/projects/WILDDESED.html)] [[Code](https://github.com/swagshaw/WildDESED)]
   
 - **Dual Knowledge Distillation for Efficient Sound Event Detection**
   <br>
@@ -121,5 +121,5 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Services
-- Reviewers: WASPAA, SPECOM, IALP, ICASSP.
+- Reviewers: WASPAA, SPECOM, IALP, ICASSP, DCASE.
 <!-- - Journal Reviewers: T-PAMI, IJCV. -->
