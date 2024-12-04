@@ -12,6 +12,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## News
+- **[Dec. 2024]** Invited to serve as a reviewer for IJCNN 2025. 
 - **[Sep. 2024]** Invited to serve as a reviewer for ICASSP 2025. 
 - **[Aug. 2024]** Our paper about sound event detection is accepted to DCASE Workshop 2024.
 - **[Feb. 2024]** Our paper about sound event detection is accepted to ICASSP 2024.
