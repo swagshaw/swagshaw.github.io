@@ -60,6 +60,27 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## Publications
+- **UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**
+  <br>
+  - **Yang Xiao**,Rohan Kumar Das
+  <br>
+  - **Accepted to the IEEE ICASSP.2025**.
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2407.03657.pdf)]
+- **Dark Experience for Incremental Keyword Spotting**
+  <br>
+  - Tianyi Peng, **Yang Xiao**
+  <br>
+  - **Accepted to the IEEE ICASSP.2025**.
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2409.08153.pdf)] 
+- **Exploring Text-Queried Sound Event Detection with Audio Source Separation**
+  <br>
+  - Han Yin, Jisheng Bai, **Yang Xiao**, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen
+  <br>
+  - **Accepted to the IEEE ICASSP.2025**.
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2409.13292.pdf)]
 - **WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
@@ -76,11 +97,6 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - [[PDF](https://arxiv.org/pdf/2402.02781.pdf)]
   
-- **FMSG Submission For DCASE 2023 Challenge Task 4 On Sound Event Detection With Weak Labels And Synthetic Soundscapes**
-  <br>
-  - **Yang Xiao**,Tanmay Khandelwal, Rohan Kumar Das
-  <br>
-  - [[PDF](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Xiao_42_t4a.pdf)]
   
 - **Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness**
   <br>
@@ -106,12 +122,6 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - [[PDF](https://arxiv.org/abs/2203.16361)] [[Code](https://github.com/swagshaw/Rainbow-Keywords)] 
 <!--   <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-
-- **MISP Challenge 2021: Multimodal Wakeup-Word Detection for Far-Field and Noisy Environment—Technological Report**
-  <br>
-  - Dianwen Ng, Jin Hui Pang, **Yang Xiao**, Eng Siong Chng
-  <br>
-  - [[PDF](https://mispchallenge.github.io/papers/task1/Nanyang_final_task1.pdf)] 
 
 
 
