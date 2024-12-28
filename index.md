@@ -12,7 +12,8 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## News
-- **[Dec. 2024]** Two papers are accepted to ICASSP 2025.
+- **[Dec. 2024]** Invited to serve as a reviewer for ICME 2025. 
+- **[Dec. 2024]** Four papers are accepted to ICASSP 2025.
 - **[Dec. 2024]** Invited to serve as a reviewer for IJCNN 2025. 
 - **[Sep. 2024]** Invited to serve as a reviewer for ICASSP 2025. 
 - **[Aug. 2024]** Our paper about sound event detection is accepted to DCASE Workshop 2024.
@@ -123,5 +124,5 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Services
-- Reviewers: WASPAA, SPECOM, IALP, ICASSP, DCASE.
+- Reviewers: WASPAA, SPECOM, IALP, ICASSP, DCASE, IJCNN, ICME
 <!-- - Journal Reviewers: T-PAMI, IJCV. -->
