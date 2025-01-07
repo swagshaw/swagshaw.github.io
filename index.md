@@ -67,7 +67,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - **Accepted to the IEEE ICASSP Workshop.2025**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2411.01174)]
+  - [[PDF](https://arxiv.org/pdf/2411.01174)] [[Code](https://github.com/apple-yinhan/Noise-robust-SED)]
 - **UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
@@ -88,7 +88,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - **Accepted to the IEEE ICASSP.2025**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2409.13292.pdf)]
+  - [[PDF](https://arxiv.org/pdf/2409.13292.pdf)] [[Code](https://github.com/apple-yinhan/TQ-SED)]
 - **WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
