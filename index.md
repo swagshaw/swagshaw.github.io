@@ -8,16 +8,16 @@ Hello, I am Yang (Austin) Xiao, Xiao is my last name. Now I am an AI engineer at
 
 Recently I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. Then I worked as a software development engineer at [China Mobile](https://www.chinamobileltd.com/en/global/home.php) for one year. 
 
-I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning, active learning apply in the speech domain to make the learning system continual, real-time and efficient. 
+I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust"** next-generation data-centric AI systems. At this moment, I mainly work in the data-centric speech learning system. Specifically, continual learning and domain adaptation apply in the speech domain to make the learning system continual, real-time, and efficient. 
 
 
 ## News
 - **[Dec. 2024]** Invited to serve as a reviewer for ICME 2025. 
-- **[Dec. 2024]** Four papers are accepted to ICASSP 2025.
+- **[Dec. 2024]** Four papers have been accepted to ICASSP 2025 (One is the workshop).
 - **[Dec. 2024]** Invited to serve as a reviewer for IJCNN 2025. 
 - **[Sep. 2024]** Invited to serve as a reviewer for ICASSP 2025. 
-- **[Aug. 2024]** Our paper about sound event detection is accepted to DCASE Workshop 2024.
-- **[Feb. 2024]** Our paper about sound event detection is accepted to ICASSP 2024.
+- **[Aug. 2024]** Our paper about sound event detection has been accepted to DCASE Workshop 2024.
+- **[Feb. 2024]** Our paper about sound event detection has been accepted to ICASSP 2024.
 - **[Sep. 2023]** Invited to serve as a reviewer for ICASSP 2024. 
 - **[May. 2023]** Our paper about keyword spotting is accepted to INTERSPEECH 2023. 
 - **[May. 2023]** Achieved the 4th place on the DCASE 2023 Challenge on Task 4a: ["Sound Event Detection with Weak Labels and Synthetic Soundscapes"](https://dcase.community/challenge2023/task-sound-event-detection-with-weak-labels-and-synthetic-soundscapes-results).
@@ -60,6 +60,14 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## Publications
+
+- **Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection**
+  <br>
+  - Han Yin, **Yang Xiao**, Jisheng Bai, Rohan Kumar Das
+  <br>
+  - **Accepted to the IEEE ICASSP Workshop.2025**.
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2411.01174)]
 - **UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
