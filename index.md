@@ -12,6 +12,7 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## News
+- **[Feb. 2025]** One paper has been accepted to IEEE Signal Processing Letters 2025.
 - **[Feb. 2025]** Invited to serve as a reviewer for Interspeech 2025.
 - **[Dec. 2024]** Invited to serve as a reviewer for ICME 2025. 
 - **[Dec. 2024]** Four papers have been accepted to ICASSP 2025 (One is the workshop).
@@ -61,19 +62,25 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
 
 
 ## Publications
-
+- **XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**
+  <br>
+  - **Yang Xiao**,Rohan Kumar Das
+  <br>
+  - **Accepted to the IEEE Signal Processing Letters.2025**.
+  <br>
+  - [[PDF](https://arxiv.org/pdf/2411.10027)] [[Code](https://github.com/apple-yinhan/Noise-robust-SED)]
 - **Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection**
   <br>
   - Han Yin, **Yang Xiao**, Jisheng Bai, Rohan Kumar Das
   <br>
   - **Accepted to the IEEE ICASSP Workshop.2025**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2411.01174)] [[Code](https://github.com/apple-yinhan/Noise-robust-SED)]
+  - [[PDF](https://arxiv.org/pdf/2411.01174)] [[Code](https://github.com/swagshaw/XLSR-Mamba)]
 - **UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
   <br>
-  - **Accepted to the IEEE ICASSP.2025**.
+  - **Accepted to the IEEE ICASSP.2025 (Oral)**.
   <br>
   - [[PDF](https://arxiv.org/pdf/2407.03657.pdf)]
 - **Dark Experience for Incremental Keyword Spotting**
