@@ -68,14 +68,14 @@ I am contributing to building **"easy-to-use"**, **"efficient"**, and  **"robust
   <br>
   - **Accepted to the IEEE Signal Processing Letters.2025**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2411.10027)] [[Code](https://github.com/apple-yinhan/Noise-robust-SED)]
+  - [[PDF](https://arxiv.org/pdf/2411.10027)] [[Code](https://github.com/swagshaw/XLSR-Mamba)] 
 - **Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection**
   <br>
   - Han Yin, **Yang Xiao**, Jisheng Bai, Rohan Kumar Das
   <br>
   - **Accepted to the IEEE ICASSP Workshop.2025**.
   <br>
-  - [[PDF](https://arxiv.org/pdf/2411.01174)] [[Code](https://github.com/swagshaw/XLSR-Mamba)]
+  - [[PDF](https://arxiv.org/pdf/2411.01174)] [[Code](https://github.com/apple-yinhan/Noise-robust-SED)]
 - **UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**
   <br>
   - **Yang Xiao**,Rohan Kumar Das
