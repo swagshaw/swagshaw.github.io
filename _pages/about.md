@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- I am currently a PhD student at the University of Melbourne in Australia. My research journey is fully supported by the Melbourne Research Scholarship, and I'm incredibly fortunate to be supervised by Dr. [Ting Dang](https://tingdang90.github.io/) and Prof. [Eun-Jung Holden](https://findanexpert.unimelb.edu.au/profile/1053597-eun-jung-holden). Before joining Unimelb, I was an AI engineer at [Fortemedia](https://www.fortemedia.com/) worked with Dr. [Rohan Kumar Das](https://sites.google.com/view/rohankumardas).I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by Prof. [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. 
+ I am currently a PhD student at the University of Melbourne in Australia. My research journey is fully supported by the Melbourne Research Scholarship, and I'm incredibly fortunate to be supervised by Dr. [Ting Dang](https://tingdang90.github.io/) and Prof. [Eun-Jung Holden](https://findanexpert.unimelb.edu.au/profile/1053597-eun-jung-holden). Before joining Unimelb, I was an AI engineer at [Fortemedia](https://www.fortemedia.com/) working with Dr. [Rohan Kumar Das](https://sites.google.com/view/rohankumardas). I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by Prof. [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. 
 
-I am contributing to building “adaptive”, “efficient”, and “robust” next-generation speech AI systems. At this moment, I mainly work in the post training paradigms for speech learning system. Specifically, by merging continual learning, domain adaptation, knowledge editing, and reinforcement fine-tuning, we pave the way for speech models that continuously adapt, specialize efficiently, and self-correct in real-world environments. I have published more than 20 papers at the top international AI conferences and journals such as ACL, SPL, ICME, ICASSP, INTERSPEECH.  <a href='https://scholar.google.com/citations?user=lgcOwb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+I am contributing to building “adaptive”, “efficient”, and “robust” next-generation speech AI systems. At this moment, I mainly work in the post training paradigms for speech learning systems. Specifically, by merging continual learning, domain adaptation, knowledge editing, and reinforcement fine-tuning, we pave the way for speech models that continuously adapt, specialize efficiently, and self-correct in real-world environments. I have published more than 20 papers at the top international AI conferences and journals such as ACL, SPL, ICME, ICASSP, and INTERSPEECH.  <a href='https://scholar.google.com/citations?user=lgcOwb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
 
 # 🔥 News
@@ -29,9 +29,9 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 # 🔍 Research Area
 
-**Speech and Audio Processing**: Sound Event Detection, Spoken Keyword Spotting, Speech Foundation Model, Anti-spoofing / DeepFake Detection
+**Speech and Audio Processing**: Sound Event Detection, Spoken Keyword Spotting, Speech Foundation Model, DeepFake Detection
 
-**Algorithm**: Continual learning, Test time adapation, Knowledge editing
+**Algorithm**: Continual learning, Test time adaptation, Knowledge editing
 
 # 🎓 Education
 - 08.2025 - Now, Doctor of Philosophy - Engineering and IT, The University of Melbourne, Australia  
@@ -48,6 +48,12 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 - ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
 - ``ACL 2025`` [AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting](https://aclanthology.org/2025.findings-acl.728.pdf), **Yang Xiao**, Peng Tianyi, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang
+- ``ICME 2025`` [Where's That Voice Coming? Continual Learning for Sound Source Localization](https://arxiv.org/pdf/2407.03661), **Yang Xiao**, Rohan Kumar Das.
+- ``ICASSP 2025`` [UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection](https://ieeexplore.ieee.org/document/10887631/), **Yang Xiao**, Rohan Kumar Das.
+- ``ICASSP 2025`` [Dark Experience for Incremental Keyword Spotting](https://ieeexplore.ieee.org/document/10890228), Tianyi Peng, Yang Xiao.
+- ``DCASE 2022`` [Continual Learning For On-Device Environmental Sound Classification](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Xiao_47.pdf), **Yang Xiao\***, Xubo Liu\*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang.
+- ``INTERSPEECH 2022`` [Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting](https://www.isca-archive.org/interspeech_2022/xiao22_interspeech.pdf), **Yang Xiao**, Nana Hou, Eng Siong Chng.
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
