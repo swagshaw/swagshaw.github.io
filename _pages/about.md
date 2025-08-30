@@ -43,7 +43,17 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 - 07.2020 - 05.2021, Software Engineer, China Mobile (Chengdu) Industrial Research Institute
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2025</div><img src='images/envsdd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://www.isca-archive.org/interspeech_2025/yin25_interspeech.pdf)
+
+Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley
+
+[**Project**](https://envsdd.github.io/)
+- The first large-scale curated dataset designed for Environmental Sound Deepfake Detection.
+</div>
+</div
 ## Continual Learning for Speech / Audio
 
 - ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
