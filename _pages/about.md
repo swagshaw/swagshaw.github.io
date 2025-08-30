@@ -52,8 +52,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 [**Project**](https://envsdd.github.io/)
 - The first large-scale curated dataset designed for Environmental Sound Deepfake Detection.
-</div>
-</div
+
 ## Continual Learning for Speech / Audio
 
 - ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
