@@ -51,7 +51,9 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley
 
 [**Project**](https://envsdd.github.io/)
-- The first large-scale curated dataset designed for Environmental Sound Deepfake Detection.
+- The first large-scale curated dataset designed for Environmental Sound Deepfake Detection. </div></div>
+
+
 
 ## Continual Learning for Speech / Audio
 
