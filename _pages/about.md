@@ -43,7 +43,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 - 07.2020 - 05.2021, Software Engineer, China Mobile (Chengdu) Industrial Research Institute
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2025</div><img src='images/envsdd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2025</div><img src='images/EnvSDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://www.isca-archive.org/interspeech_2025/yin25_interspeech.pdf)
