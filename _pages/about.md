@@ -48,13 +48,23 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://www.isca-archive.org/interspeech_2025/yin25_interspeech.pdf)
 
-Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley
+Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley.
 
 [**Project**](https://envsdd.github.io/) | [**Code**](https://github.com/apple-yinhan/EnvSDD/)
 - The first large-scale curated dataset designed for Environmental Sound Deepfake Detection.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPL 2025</div><img src='/images/xlsr_mamba_plot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection](https://ieeexplore.ieee.org/document/10909468)
+
+**Yang Xiao**, Rohan Kumar Das.
+
+[**Code**](https://github.com/swagshaw/XLSR-Mamba/)
+</div>
+</div>
 
 
 ## Continual Learning for Speech / Audio
@@ -77,7 +87,6 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 ### 2025
 - ``INTERSPEECH 2025`` [TF-Mamba: A Time-Frequency Network for Sound Source Localization](https://www.isca-archive.org/interspeech_2025/xiao25_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
 - ``SPSC 2025``[Multilingual Source Tracing of Speech Deepfakes: A First Benchmark](https://arxiv.org/pdf/2508.04143), Xi Xuan, **Yang Xiao**, Rohan Kumar Das, Tomi Kinnunen.
-- ``SPL 2025`` [XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection](https://ieeexplore.ieee.org/document/10909468), **Yang Xiao**, Rohan Kumar Das.
 - ``APSIPA ASC 2025`` [RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing](https://arxiv.org/pdf/2507.08227), **Yang Xiao**, Ting Dang, Rohan Kumar Das.
 
 ### Before 2024
