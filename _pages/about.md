@@ -33,7 +33,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 **Algorithm**: Continual learning, Test time adaptation, Knowledge editing
 
-# 🎓 Education
+# 🎓 Educations
 - 08.2025 - Now, Doctor of Philosophy - Engineering and IT, The University of Melbourne, Australia  
 - 08.2021 - 01.2023,  Master of Science (Artificial Intelligence), Nanyang Technological University, Singapore  
 - 08.2016 - 07.2020, B.E. in Internet of Things Engineering, Jilin University, Changchun, China
