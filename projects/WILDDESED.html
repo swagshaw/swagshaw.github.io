@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./Packages/WILDDESED/css/bulma.min.css">
+  <link rel="stylesheet" href="./Packages/WILDDESED/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./Packages/WILDDESED/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./Packages/WILDDESED/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./Packages/WILDDESED/css/index.css">
+  <link rel="icon" href="./Packages/WILDDESED/images/favicon.svg">
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./Packages/WILDDESED/js/fontawesome.all.min.js"></script>
+  <script src="./Packages/WILDDESED/js/bulma-carousel.min.js"></script>
+  <script src="./Packages/WILDDESED/js/bulma-slider.min.js"></script>
+  <script src="./Packages/WILDDESED/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h2 class="title is-2 publication-title">WildDESED: An LLM-Powered Dataset for Wild</p> Domestic Environment Sound Event Detection </h2>
+          <h1 class="title is-4 publication-conference"> DCASE 2024 </h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://swagshaw.github.io/" target="_blank">Yang Xiao</a>,</span>
+            <span class="author-block">
+              <a href="https://sites.google.com/view/rohankumardas/" target="_blank">Rohan Kumar Das</a>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <!-- <span class="author-block"><a href="https://www.mmlab-ntu.com/index.html" target="_blank">S-Lab, Nanyang Technological University</a></span> -->
+            <span class="author-block">Fortemedia, Singapore</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://dcase.community/documents/workshop2024/proceedings/DCASE2024Workshop_Xiao_2.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2407.03656" 
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <!-- <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/swagshaw/WildDESED"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://zenodo.org/records/14013803"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Data</span>
+                  </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-three-fourths">
+        <h2 class="title is-2">Abstract</h2>
+        <img id="wilddesed" src="./Packages/WILDDESED/data/wilddesedlogo1.png" width="25%" height="25%"> 
+        <div class="content has-text-justified">
+          This work aims to advance sound event detection (SED) research
+          by presenting a new large language model (LLM)-powered dataset
+          namely wild domestic environment sound event detection (WildDESED). 
+          It is crafted as an extension to the original DESED dataset
+          to reflect diverse acoustic variability and complex noises in home
+          settings. We leveraged LLMs to generate eight different domestic
+          scenarios based on target sound categories of the DESED dataset.
+          Then we enriched the scenarios with a carefully tailored mixture of
+          noises selected from AudioSet and ensured no overlap with target
+          sound. We consider widely popular convolutional neural recurrent
+          network to study WildDESED dataset, which depicts its challenging
+          nature. We then apply curriculum learning by gradually increasing
+          noise complexity to enhance the model’s generalization capabilities
+          across various noise levels. Our results with this approach show
+          improvements within the noisy environment, validating the effectiveness on the 
+          WildDESED dataset promoting noise-robust SED advancements.
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Method. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-three-fourths">
+        <h2 class="title is-2">Method</h2>
+        <div class="image-container">
+          <figure>
+            <img id="gimm" src="./Packages/WILDDESED/data/noises.png"> 
+            <figcaption> What type of background noises do we use? </figcaption>
+          </figure>
+        <figure>
+        <img id="WILDDESED" src="./Packages/WILDDESED/data/scenes.png"> 
+        <figcaption> What are the domestic scenarios we choose? </figcaption>
+      </figure>
+      </div>
+    </div>
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Title -->
+    <h2 class="title is-2 has-text-centered">Example diagrams of Scenarios</h2>
+    
+    <!-- Scenarios Row -->
+    <div class="columns is-centered">
+      
+      <!-- Morning Scenario -->
+      <div class="column is-half has-text-centered">
+        <figure>
+          <img id="morning-scenario" src="./Packages/WILDDESED/data/morning.png" alt="Morning Scenario">
+          <figcaption>Morning Scenario</figcaption>
+        </figure>
+      </div>
+      
+      <!-- Pet Care Scenario -->
+      <div class="column is-half has-text-centered">
+        <figure>
+          <img id="pet-care-scenario" src="./Packages/WILDDESED/data/pet.png" alt="Pet Care Scenario">
+          <figcaption>Pet Care Scenario</figcaption>
+        </figure>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <h2 class="title is-2 has-text-centered">Example Clips</h2>
+
+    <div class="columns is-centered is-vcentered">
+      <div class="column has-text-centered">
+        <h4  class="title is-4">Scenarios</h4>
+      </div>
+      <div class="column has-text-centered">
+        <h4  class="title is-4">Noisy Clips</h4>
+      </div>
+      <div class="column has-text-centered">
+        <h4  class="title is-4">Original Clips</h4>
+      </div>
+    </div>
+    <!-- Individual rows for each scenario -->
+    
+    <!-- Row 1: Morning -->
+    <div class="columns is-centered is-vcentered">
+      <div class="column has-text-centered">
+        <p>Morning</p>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/morning_noise.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/morning_clean.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+
+    <!-- Row 2: Pet Care -->
+    <div class="columns is-centered is-vcentered">
+      <div class="column has-text-centered">
+        <p>Pet Care</p>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/pet_noise.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/pet_clean.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+
+    <!-- Row 3: Bathroom -->
+    <div class="columns is-centered is-vcentered">
+      <div class="column has-text-centered">
+        <p>Bathroom</p>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/runningwater_noise.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/runningwater_clean.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+
+    <!-- Row 4: Emergency -->
+    <div class="columns is-centered is-vcentered">
+      <div class="column has-text-centered">
+        <p>Emergency</p>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/em_noise.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+      <div class="column has-text-centered">
+        <audio controls>
+          <source src="./Packages/WILDDESED/data/em_clean.wav" type="audio/wav">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@inproceedings{Xiao2024WildDESED,
+  title={{WildDESED}: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System},
+  author={Yang Xiao and Rohan Kumar Das},
+  booktitle={Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024)},
+  pages = {196--200},
+  year={2024},
+}
+</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <!-- <div class="content has-text-centered">
+      <a class="icon-link"
+         href="./Packages/WILDDESED/videos/nerfies_paper.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/keunhong" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div> -->
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            We referred to the project page of <a href="https://nerfies.github.io/">Nerfies</a> when creating this website.
+          </p>
+
+          <!-- <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+            This means you are free to borrow the <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website,
+            we just ask that you link back to this page in the footer.
+            Please remember to remove the analytics code included in the header of the website which
+            you do not want on your website.
+          </p> -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
