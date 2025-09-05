@@ -88,7 +88,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 - ``INTERSPEECH 2025`` [TF-Mamba: A Time-Frequency Network for Sound Source Localization](https://www.isca-archive.org/interspeech_2025/xiao25_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
 - ``SPSC 2025``[Multilingual Source Tracing of Speech Deepfakes: A First Benchmark](https://arxiv.org/pdf/2508.04143), Xi Xuan, **Yang Xiao**, Rohan Kumar Das, Tomi Kinnunen.
 - ``APSIPA ASC 2025`` [RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing](https://arxiv.org/pdf/2507.08227), **Yang Xiao**, Ting Dang, Rohan Kumar Das.
-
+- ``ICASSP 2025`` [Exploring Text-Queried Sound Event Detection with Audio Source Separation](https://ieeexplore.ieee.org/abstract/document/10889789/), Han Yin, Jisheng Bai, **Yang Xiao**, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen
 ### Before 2024
 - ``INTERSPEECH 2023`` [Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness](https://www.isca-archive.org/interspeech_2023/ng23b_interspeech.pdf), Dianwen Ng, **Yang Xiao**, Jia Qi Yip, Zhao Yang, Biao Tian, Qiang Fu, Eng Siong Chng, Bin Ma.
 
