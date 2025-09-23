@@ -23,6 +23,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE Signal Processing Letters 2025!
 - *2025.09*: &nbsp;🎉🎉 Our ICASSP grand challenge [ESDD 2026](https://sites.google.com/view/esdd-challenge) has been launched. 
 - *2025.08*: &nbsp;🎉🎉  I joined the University of Melbourne as a PhD student in Australia!
 - *2025.05*: &nbsp;🎉🎉  Four papers have been accepted to Interspeech 2025!
@@ -85,10 +86,11 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 ## Others
 ### 2025
+- ``SPL 2025`` [Noise-Robust Sound Event Detection and Counting via Language-Queried Sound Separation](https://arxiv.org/pdf/2508.07176), Yuanjian Chen, **Yang Xiao**, Han Yin, Yadong Guan, Xubo Liu.
 - ``INTERSPEECH 2025`` [TF-Mamba: A Time-Frequency Network for Sound Source Localization](https://www.isca-archive.org/interspeech_2025/xiao25_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
 - ``SPSC 2025``[Multilingual Source Tracing of Speech Deepfakes: A First Benchmark](https://arxiv.org/pdf/2508.04143), Xi Xuan, **Yang Xiao**, Rohan Kumar Das, Tomi Kinnunen.
 - ``APSIPA ASC 2025`` [RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing](https://arxiv.org/pdf/2507.08227), **Yang Xiao**, Ting Dang, Rohan Kumar Das.
-- ``ICASSP 2025`` [Exploring Text-Queried Sound Event Detection with Audio Source Separation](https://ieeexplore.ieee.org/abstract/document/10889789/), Han Yin, Jisheng Bai, **Yang Xiao**, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen
+- ``ICASSP 2025`` [Exploring Text-Queried Sound Event Detection with Audio Source Separation](https://ieeexplore.ieee.org/abstract/document/10889789/), Han Yin, Jisheng Bai, **Yang Xiao**, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen.
 ### Before 2024
 - ``INTERSPEECH 2023`` [Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness](https://www.isca-archive.org/interspeech_2023/ng23b_interspeech.pdf), Dianwen Ng, **Yang Xiao**, Jia Qi Yip, Zhao Yang, Biao Tian, Qiang Fu, Eng Siong Chng, Bin Ma.
 
