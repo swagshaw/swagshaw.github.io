@@ -23,7 +23,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉  I will chair two sessions in the APSIPA ASC 2025!
+- *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair in the APSIPA ASC 2025!
 - *2025.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE Signal Processing Letters 2025!
 - *2025.09*: &nbsp;🎉🎉  Our ICASSP grand challenge [ESDD 2026](https://sites.google.com/view/esdd-challenge) has been launched. 
 - *2025.08*: &nbsp;🎉🎉  I joined the University of Melbourne as a PhD student in Australia!
