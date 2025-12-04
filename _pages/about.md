@@ -100,7 +100,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 - Session Chair: APSIPA ASC
 - Organizer: APSIPA ASC Special Session ([ESPRESSO 2025](https://sites.google.com/view/espresso2025)), ICASSP Grand Challenge ([ESDD 2026](https://sites.google.com/view/esdd-challenge))
 - Conference Reviewer: INTERSPEECH, ICASSP, ICME, IJCNN, APSIPA ASC, DCASE
-- Journal Reviewer: IEEE TASLP, IEEE SPL
+- Journal Reviewer: IEEE TASLP, IEEE SPL, Pattern Recognition, EURASIP
 
 # 🎖 Honors and Awards
 - *2025.07* ISCA (International Speech Communication Association) Grant, Interspeech, Rotterdam
