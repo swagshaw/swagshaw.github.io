@@ -23,6 +23,8 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉  Four papers have been accepted to IEEE ICASSP 2025!
+- *2025.12*: &nbsp;🎉🎉  Our ICME grand challenge [ESDD 2](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2?authuser=0) has been launched.
 - *2025.11*: &nbsp;🎉🎉  Call for Papers: We will launch "[Post-Training of Speech Foundation Models](https://sites.google.com/view/ptsfm/)" at INTERSPEECH 2026 Special Sessions.
 - *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair in the APSIPA ASC 2025!
 - *2025.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE Signal Processing Letters 2025!
@@ -71,7 +73,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 
 ## Continual Learning for Speech / Audio
-
+- ``ICASSP 2026`` [AFT: An Exemplar-Free Class Incremental Learning Method for Environmental Sound Classification](https://arxiv.org/pdf/2509.15523), Xinyi Chen, Xi Chen, Zhenyu Weng, **Yang Xiao**.
 - ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
 - ``ACL 2025`` [AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting](https://aclanthology.org/2025.findings-acl.728.pdf), **Yang Xiao**, Peng Tianyi, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang
 - ``ICME 2025`` [Where's That Voice Coming? Continual Learning for Sound Source Localization](https://arxiv.org/pdf/2407.03661), **Yang Xiao**, Rohan Kumar Das.
@@ -87,6 +89,9 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 
 ## Others
+### 2026
+- ``ICASSP 2026`` [Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](https://arxiv.org/pdf/2509.14893), Yuanjian Chen, **Yang Xiao**, Jinjie Huang
+- ``ICASSP 2026`` [Environmental Sound Deepfake Detection Challenge: An Overview](https://arxiv.org/pdf/2512.24140), Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Ting Dang
 ### 2025
 - ``SPL 2025`` [Noise-Robust Sound Event Detection and Counting via Language-Queried Sound Separation](https://arxiv.org/pdf/2508.07176), Yuanjian Chen, **Yang Xiao**, Han Yin, Yadong Guan, Xubo Liu.
 - ``INTERSPEECH 2025`` [TF-Mamba: A Time-Frequency Network for Sound Source Localization](https://www.isca-archive.org/interspeech_2025/xiao25_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
@@ -98,7 +103,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 
 # 😁 Academic Services
-- Session Chair: APSIPA ASC
+- Session Chair: APSIPA ASC, INTERSPEECH, ICASSP
 - Organizer: APSIPA ASC Special Session ([ESPRESSO 2025](https://sites.google.com/view/espresso2025)), ICASSP Grand Challenge ([ESDD 2026](https://sites.google.com/view/esdd-challenge))
 - Conference Reviewer: INTERSPEECH, ICASSP, ICME, IJCNN, APSIPA ASC, DCASE
 - Journal Reviewer: IEEE TASLP, IEEE SPL, Pattern Recognition, EURASIP
