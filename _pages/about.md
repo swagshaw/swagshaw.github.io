@@ -23,7 +23,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉  Four papers have been accepted to IEEE ICASSP 2025!
+- *2026.01*: &nbsp;🎉🎉  Four papers have been accepted to IEEE ICASSP 2026!
 - *2025.12*: &nbsp;🎉🎉  Our ICME grand challenge [ESDD 2](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2?authuser=0) has been launched.
 - *2025.11*: &nbsp;🎉🎉  Call for Papers: We will launch "[Post-Training of Speech Foundation Models](https://sites.google.com/view/ptsfm/)" at INTERSPEECH 2026 Special Sessions.
 - *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair in the APSIPA ASC 2025!
