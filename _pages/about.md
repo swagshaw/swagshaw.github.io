@@ -23,13 +23,13 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉  One paper has been accepted to ACL 2026!
 - *2026.01*: &nbsp;🎉🎉  Four papers have been accepted to IEEE ICASSP 2026!
 - *2025.12*: &nbsp;🎉🎉  Our ICME grand challenge [ESDD 2](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2?authuser=0) has been launched.
 - *2025.11*: &nbsp;🎉🎉  Call for Papers: We will launch "[Post-Training of Speech Foundation Models](https://sites.google.com/view/ptsfm/)" at INTERSPEECH 2026 Special Sessions.
 - *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair in the APSIPA ASC 2025!
 - *2025.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE Signal Processing Letters 2025!
 - *2025.09*: &nbsp;🎉🎉  Our ICASSP grand challenge [ESDD 2026](https://sites.google.com/view/esdd-challenge) has been launched. 
-- *2025.08*: &nbsp;🎉🎉  I joined the University of Melbourne as a PhD student in Australia!
 - *2025.05*: &nbsp;🎉🎉  Four papers have been accepted to Interspeech 2025!
 
 # 🔍 Research Area
@@ -73,6 +73,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 
 ## Continual Learning for Speech / Audio
+- ``ACL 2026`` [Adapting Where It Matters: Depth-Aware Adaptation for Efficient Multilingual Speech Recognition in Low-Resource Languages](https://arxiv.org/pdf/2602.01008), **Yang Xiao**, Eun-Jung Holden, Ting Dang.
 - ``ICASSP 2026`` [AFT: An Exemplar-Free Class Incremental Learning Method for Environmental Sound Classification](https://arxiv.org/pdf/2509.15523), Xinyi Chen, Xi Chen, Zhenyu Weng, **Yang Xiao**.
 - ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
 - ``ACL 2025`` [AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting](https://aclanthology.org/2025.findings-acl.728.pdf), **Yang Xiao**, Peng Tianyi, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang
