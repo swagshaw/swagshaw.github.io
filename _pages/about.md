@@ -23,6 +23,8 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉  Five papers have been accepted to Interspeech 2026!
+- *2026.05*: &nbsp;🎉🎉  Two papers have been accepted to the ICML 2026 Workshop on Machine Learning for Audio!
 - *2026.04*: &nbsp;🎉🎉  One paper has been accepted to ACL 2026!
 - *2026.01*: &nbsp;🎉🎉  Four papers have been accepted to IEEE ICASSP 2026!
 - *2025.12*: &nbsp;🎉🎉  Our ICME grand challenge [ESDD 2](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2?authuser=0) has been launched.
@@ -30,7 +32,6 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 - *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair in the APSIPA ASC 2025!
 - *2025.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE Signal Processing Letters 2025!
 - *2025.09*: &nbsp;🎉🎉  Our ICASSP grand challenge [ESDD 2026](https://sites.google.com/view/esdd-challenge) has been launched. 
-- *2025.05*: &nbsp;🎉🎉  Four papers have been accepted to Interspeech 2025!
 
 # 🔍 Research Area
 
