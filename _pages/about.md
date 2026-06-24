@@ -75,6 +75,7 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 
 ## Continual Learning for Speech / Audio
+- ``INTERSPEECH 2026`` [Continual Adaptation for Pacific Indigenous Speech Recognition](https://arxiv.org/pdf/2603.06310), **Yang Xiao**, Aso Mahmudi, Nick Thieberger, Eliathamby Ambikairajah, Eun-Jung Holden, Ting Dang.
 - ``ACL 2026`` [Adapting Where It Matters: Depth-Aware Adaptation for Efficient Multilingual Speech Recognition in Low-Resource Languages](https://arxiv.org/pdf/2602.01008), **Yang Xiao**, Eun-Jung Holden, Ting Dang.
 - ``ICASSP 2026`` [AFT: An Exemplar-Free Class Incremental Learning Method for Environmental Sound Classification](https://arxiv.org/pdf/2509.15523), Xinyi Chen, Xi Chen, Zhenyu Weng, **Yang Xiao**.
 - ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
