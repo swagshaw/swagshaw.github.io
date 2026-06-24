@@ -23,6 +23,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉  I am honored to serve as a session chair in the ACL 2026!
 - *2026.05*: &nbsp;🎉🎉  Five papers have been accepted to Interspeech 2026!
 - *2026.05*: &nbsp;🎉🎉  Two papers have been accepted to the ICML 2026 Workshop on Machine Learning for Audio!
 - *2026.04*: &nbsp;🎉🎉  One paper has been accepted to ACL 2026!
@@ -108,12 +109,13 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 
 # 😁 Academic Services
-- Session Chair: APSIPA ASC, INTERSPEECH, ICASSP
-- Organizer: APSIPA ASC Special Session ([ESPRESSO 2025](https://sites.google.com/view/espresso2025)), ICASSP Grand Challenge ([ESDD 2026](https://sites.google.com/view/esdd-challenge))
+- Session Chair: ACL, APSIPA ASC, INTERSPEECH, ICASSP
+- Organizer: APSIPA ASC Special Session ([ESPRESSO 2025](https://sites.google.com/view/espresso2025)), ICASSP Grand Challenge ([ESDD 2026](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description)), ICME Challenge ([ESDD 2](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description)), INTERSPEECH Special Session ([PTSFM](https://sites.google.com/view/ptsfm))
 - Conference Reviewer: INTERSPEECH, ICASSP, ICME, IJCNN, APSIPA ASC, DCASE
 - Journal Reviewer: IEEE TASLP, IEEE SPL, Pattern Recognition, EURASIP
 
 # 🎖 Honors and Awards
-- *2025.07* ISCA (International Speech Communication Association) Grant, Interspeech, Rotterdam
-- *2025.03* Melbourne Research Scholarship, University of Melbourne
+- *2026* IEEE Signal Processing Society Travel Grant, ICASSP 2026, Barcelona 
+- *2025* ISCA (International Speech Communication Association) Grant, Interspeech, Rotterdam
+- *2025* Melbourne Research Scholarship, University of Melbourne
 
