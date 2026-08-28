@@ -17,20 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- I am currently a PhD student at the University of Melbourne in Australia. My research journey is fully supported by the Melbourne Research Scholarship, and I'm incredibly fortunate to be supervised by Dr. [Ting Dang](https://tingdang90.github.io/) and Prof. [Eun-Jung Holden](https://findanexpert.unimelb.edu.au/profile/1053597-eun-jung-holden). Before joining Unimelb, I was an AI engineer at [Fortemedia](https://www.fortemedia.com/) working with Dr. [Rohan Kumar Das](https://sites.google.com/view/rohankumardas). I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by Prof. [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. 
+ I am currently a PhD candidate at the University of Melbourne in Australia. My research journey is fully supported by the Melbourne Research Scholarship, and I'm incredibly fortunate to be supervised by Dr. [Ting Dang](https://tingdang90.github.io/) and Prof. [Eun-Jung Holden](https://findanexpert.unimelb.edu.au/profile/1053597-eun-jung-holden). Before joining Unimelb, I was an AI engineer at [Fortemedia](https://www.fortemedia.com/) working with Dr. [Rohan Kumar Das](https://sites.google.com/view/rohankumardas). I graduated as a CS Master student at [NTU](https://www.ntu.edu.sg/) advised by Prof. [Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html). I obtained my B.Eng degree from Jilin University. 
 
-I am contributing to building “adaptive”, “efficient”, and “robust” next-generation speech AI systems. At this moment, I mainly work in the post training paradigms for speech learning systems. Specifically, by merging continual learning, domain adaptation, knowledge editing, and reinforcement fine-tuning, we pave the way for speech models that continuously adapt, specialize efficiently, and self-correct in real-world environments. I have published more than 20 papers at the top international AI conferences and journals such as ACL, SPL, ICME, ICASSP, and INTERSPEECH.  <a href='https://scholar.google.com/citations?user=lgcOwb4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fswagshaw%2Fswagshaw.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+I am contributing to building “adaptive”, “efficient”, and “robust” next-generation speech AI systems. At this moment, I mainly work on post-training paradigms for speech learning systems. Specifically, by merging continual learning, domain adaptation, knowledge editing, and reinforcement fine-tuning, we pave the way for speech models that continuously adapt, specialize efficiently, and self-correct in real-world environments. I have published more than 20 papers at top international AI conferences and journals such as ACL, EMNLP, ICASSP, and INTERSPEECH.  <a href='https://scholar.google.com/citations?user=lgcOwb4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fswagshaw%2Fswagshaw.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉  I am honored to serve as a session chair in the ACL 2026!
+- *2026.08*: &nbsp;🎉🎉  One paper has been accepted to EMNLP 2026!
+- *2026.06*: &nbsp;🎉🎉  I am honored to serve as a session chair at ACL 2026!
 - *2026.05*: &nbsp;🎉🎉  Five papers have been accepted to Interspeech 2026!
 - *2026.05*: &nbsp;🎉🎉  Two papers have been accepted to the ICML 2026 Workshop on Machine Learning for Audio!
 - *2026.04*: &nbsp;🎉🎉  One paper has been accepted to ACL 2026!
 - *2026.01*: &nbsp;🎉🎉  Four papers have been accepted to IEEE ICASSP 2026!
 - *2025.12*: &nbsp;🎉🎉  Our ICME grand challenge [ESDD 2](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2?authuser=0) has been launched.
 - *2025.11*: &nbsp;🎉🎉  Call for Papers: We will launch "[Post-Training of Speech Foundation Models](https://sites.google.com/view/ptsfm/)" at INTERSPEECH 2026 Special Sessions.
-- *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair in the APSIPA ASC 2025!
+- *2025.10*: &nbsp;🎉🎉  I am honored to serve as a session chair at APSIPA ASC 2025!
 - *2025.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE Signal Processing Letters 2025!
 - *2025.09*: &nbsp;🎉🎉  Our ICASSP grand challenge [ESDD 2026](https://sites.google.com/view/esdd-challenge) has been launched. 
 
@@ -38,7 +39,7 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 **Speech and Audio Processing**: Sound Event Detection, Spoken Keyword Spotting, Speech Foundation Model, DeepFake Detection
 
-**Algorithm**: Continual learning, Test time adaptation, Knowledge editing
+**Algorithm**: Continual learning, Test-time adaptation, Knowledge editing
 
 # 🎓 Educations
 - 08.2025 - Now, Doctor of Philosophy - Engineering and IT, The University of Melbourne, Australia  
