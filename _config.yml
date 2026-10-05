@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yang Xiao (Austin)"
 description              : "PhD Student @ University of Melbourne"
-repository               : "swagshaw.github.io/"
+repository               : "swagshaw/swagshaw.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
