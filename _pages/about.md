@@ -111,7 +111,7 @@ Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wa
   [[paper](https://arxiv.org/pdf/2606.11260)] [[code](https://github.com/AIMS-RAIL/RAIL)] [[project](https://aims-rail.github.io/RAIL/)] [[dataset](https://huggingface.co/datasets/AIMS-RAIL/RAIL)]
 
 - **PolyBench: A Benchmark for Compositional Reasoning in Polyphonic Audio**<br>
-  Yuanjian Chen, **<u>Yang Xiao</u>**, Han Yin, Xubo Liu, Jinjie Huang, Ting Dang<br>
+  Yuanjian Chen\*, **<u>Yang Xiao</u>\***, Han Yin\*, Xubo Liu, Jinjie Huang, Ting Dang<br>
   INTERSPEECH 2026<br>
   [[paper](https://arxiv.org/pdf/2603.05128)] [[code](https://github.com/visionchan/PolyBench)] [[dataset](https://huggingface.co/datasets/PolyBench/PolyBench)]
 
@@ -151,7 +151,7 @@ Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wa
   [[paper](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf)]
 
 - **AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting**<br>
-  **<u>Yang Xiao</u>**, Peng Tianyi, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang<br>
+  **<u>Yang Xiao</u>**, Tianyi Peng, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang<br>
   ACL 2025<br>
   [[paper](https://aclanthology.org/2025.findings-acl.728.pdf)]
 
