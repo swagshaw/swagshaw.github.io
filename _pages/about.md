@@ -108,12 +108,12 @@ Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wa
 - **RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark**<br>
   Hongyu Jin\*, Siyi Wang\*, **<u>Yang Xiao</u>\***, Jiaheng Dong\*, Shihong Tan, Kaiyuan Peng, Georgiana Juravle, Shanquan Chen, Gongping Huang, Hong Jia, Eun-Jung Holden, James Bailey, Ting Dang<br>
   NeurIPS 2026<br>
-  [[paper](https://arxiv.org/pdf/2606.11260)]
+  [[paper](https://arxiv.org/pdf/2606.11260)] [[code](https://github.com/AIMS-RAIL/RAIL)] [[project](https://aims-rail.github.io/RAIL/)] [[dataset](https://huggingface.co/datasets/AIMS-RAIL/RAIL)]
 
 - **PolyBench: A Benchmark for Compositional Reasoning in Polyphonic Audio**<br>
   Yuanjian Chen, **<u>Yang Xiao</u>**, Han Yin, Xubo Liu, Jinjie Huang, Ting Dang<br>
   INTERSPEECH 2026<br>
-  [[paper](https://arxiv.org/pdf/2603.05128)]
+  [[paper](https://arxiv.org/pdf/2603.05128)] [[code](https://github.com/visionchan/PolyBench)] [[dataset](https://huggingface.co/datasets/PolyBench/PolyBench)]
 
 - **Focus Then Listen: An Empirical Study of Plug-and-Play Audio Enhancer for Noise-Robust Large Audio Language Models**<br>
   Han Yin, **<u>Yang Xiao</u>**, Younghoo Kwon, Ting Dang, Jung-Woo Choi<br>
