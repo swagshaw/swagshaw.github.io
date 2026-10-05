@@ -87,6 +87,27 @@
 
 }
 
+.pub-group {
+    margin-bottom: .8em;
+
+    summary {
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+    ul {
+        margin-top: .8em;
+    }
+
+    li {
+        margin-bottom: 1em;
+    }
+}
+
+.pub-note {
+    font-size: .8em;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

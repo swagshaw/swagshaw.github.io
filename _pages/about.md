@@ -23,7 +23,9 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉  One paper has been accepted to EMNLP 2026!
+- *2026.09*: &nbsp;🎉🎉  One paper has been accepted to NeurIPS 2026!
+- *2026.09*: &nbsp;🎉🎉  One paper has been accepted to IEEE SLT 2026!
+- *2026.08*: &nbsp;🎉🎉  One paper has been accepted to EMNLP 2026 as an Oral presentation!
 - *2026.06*: &nbsp;🎉🎉  I am honored to serve as a session chair at ACL 2026!
 - *2026.05*: &nbsp;🎉🎉  Five papers have been accepted to Interspeech 2026!
 - *2026.05*: &nbsp;🎉🎉  Two papers have been accepted to the ICML 2026 Workshop on Machine Learning for Audio!
@@ -51,12 +53,37 @@ I am contributing to building “adaptive”, “efficient”, and “robust” 
 - 07.2020 - 05.2021, Software Engineer, China Mobile (Chengdu) Industrial Research Institute
 
 # 📝 Publications 
+Highlighted papers are shown first, followed by publications grouped by topic (click to expand). See [Google Scholar](https://scholar.google.com/citations?user=lgcOwb4AAAAJ) for the full list.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Oral</div><img src='/images/EnvMem.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Why Can't They Remember? Uncovering Representation and Retrieval Bottlenecks in Multi-Turn Acoustic Memory](https://arxiv.org/pdf/2605.27039)
+
+**<u>Yang Xiao</u>**, Siyi Wang, Han Yin, Hong Jia, Vidhyasaharan Sethu, Eun-Jung Holden, Ting Dang.
+
+- EnvMem, a controlled multi-turn benchmark revealing that large audio language models fail to recall early non-speech acoustic cues, with representational trajectory drift as the key failure mode.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='/images/VoxMem.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://arxiv.org/pdf/2609.32607)
+
+**<u>Yang Xiao</u>**, Vidhyasaharan Sethu, Eun-Jung Holden, Ting Dang.
+
+[**Project**](https://swagshaw.github.io/voxmem/) | [**Code**](https://github.com/swagshaw/voxmem) | [**Dataset**](https://huggingface.co/datasets/AudioMemory/voxmembench)
+- A multi-session spoken memory benchmark crossing four acoustic evidence types with four memory operations; across 15 LALMs, no model exceeds 40% at 32K context.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2025</div><img src='/images/EnvSDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EnvSDD: Benchmarking Environmental Sound Deepfake Detection](https://www.isca-archive.org/interspeech_2025/yin25_interspeech.pdf)
 
-Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley.
+Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley.
 
 [**Project**](https://envsdd.github.io/) | [**Code**](https://github.com/apple-yinhan/EnvSDD/)
 - The first large-scale curated dataset designed for Environmental Sound Deepfake Detection.
@@ -68,47 +95,194 @@ Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mar
 
 [XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection](https://ieeexplore.ieee.org/document/10909468)
 
-**Yang Xiao**, Rohan Kumar Das.
+**<u>Yang Xiao</u>**, Rohan Kumar Das.
 
 [**Code**](https://github.com/swagshaw/XLSR-Mamba/)
 </div>
 </div>
 
 
-## Continual Learning for Speech / Audio
-- ``INTERSPEECH 2026`` [Continual Adaptation for Pacific Indigenous Speech Recognition](https://arxiv.org/pdf/2603.06310), **Yang Xiao**, Aso Mahmudi, Nick Thieberger, Eliathamby Ambikairajah, Eun-Jung Holden, Ting Dang.
-- ``ACL 2026`` [Adapting Where It Matters: Depth-Aware Adaptation for Efficient Multilingual Speech Recognition in Low-Resource Languages](https://arxiv.org/pdf/2602.01008), **Yang Xiao**, Eun-Jung Holden, Ting Dang.
-- ``ICASSP 2026`` [AFT: An Exemplar-Free Class Incremental Learning Method for Environmental Sound Classification](https://arxiv.org/pdf/2509.15523), Xinyi Chen, Xi Chen, Zhenyu Weng, **Yang Xiao**.
-- ``INTERSPEECH 2025`` [Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
-- ``ACL 2025`` [AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting](https://aclanthology.org/2025.findings-acl.728.pdf), **Yang Xiao**, Peng Tianyi, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang
-- ``ICME 2025`` [Where's That Voice Coming? Continual Learning for Sound Source Localization](https://arxiv.org/pdf/2407.03661), **Yang Xiao**, Rohan Kumar Das.
-- ``ICASSP 2025`` [UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection](https://ieeexplore.ieee.org/document/10887631/), **Yang Xiao**, Rohan Kumar Das.
-- ``ICASSP 2025`` [Dark Experience for Incremental Keyword Spotting](https://ieeexplore.ieee.org/document/10890228), Tianyi Peng, **Yang Xiao**.
-- ``DCASE 2022`` [Continual Learning For On-Device Environmental Sound Classification](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Xiao_47.pdf), **Yang Xiao\***, Xubo Liu\*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang.
-- ``INTERSPEECH 2022`` [Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting](https://www.isca-archive.org/interspeech_2022/xiao22_interspeech.pdf), **Yang Xiao**, Nana Hou, Eng Siong Chng.
+<details class="pub-group" markdown="1">
+<summary>Large Audio Language Models</summary>
 
-## Domain adaptation for Speech / Audio
-- ``INTERSPEECH 2025`` [AdaKWS: Towards Robust Keyword Spotting with Test-Time Adaptation](https://www.isca-archive.org/interspeech_2025/xiao25b_interspeech.pdf), **Yang Xiao**, Tianyi Peng, Yanghao Zhou, Rohan Kumar Das.
-- ``APSIPA ASC 2025`` [DG-SED: Domain Generalization for Sound Event Detection with Heterogeneous Training Data](https://arxiv.org/abs/2407.03654), **Yang Xiao**, Han Yin, Jisheng Bai, Rohan Kumar Das.
-- ``DCASE 2024`` [WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System](https://arxiv.org/pdf/2407.03656.pdf), **Yang Xiao**, Rohan Kumar Das.
+- **RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark**<br>
+  Hongyu Jin\*, Siyi Wang\*, **<u>Yang Xiao</u>\***, Jiaheng Dong\*, Shihong Tan, Kaiyuan Peng, Georgiana Juravle, Shanquan Chen, Gongping Huang, Hong Jia, Eun-Jung Holden, James Bailey, Ting Dang<br>
+  NeurIPS 2026<br>
+  [[paper](https://arxiv.org/pdf/2606.11260)]
 
+- **PolyBench: A Benchmark for Compositional Reasoning in Polyphonic Audio**<br>
+  Yuanjian Chen, **<u>Yang Xiao</u>**, Han Yin, Xubo Liu, Jinjie Huang, Ting Dang<br>
+  INTERSPEECH 2026<br>
+  [[paper](https://arxiv.org/pdf/2603.05128)]
 
-## Others
+- **Focus Then Listen: An Empirical Study of Plug-and-Play Audio Enhancer for Noise-Robust Large Audio Language Models**<br>
+  Han Yin, **<u>Yang Xiao</u>**, Younghoo Kwon, Ting Dang, Jung-Woo Choi<br>
+  ICML 2026 Workshop<br>
+  [[paper](https://arxiv.org/pdf/2603.04862)]
 
-### 2026
-- ``ICASSP 2026`` [Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](https://arxiv.org/pdf/2509.14893), Yuanjian Chen, **Yang Xiao**, Jinjie Huang
-- ``ICASSP 2026`` [Environmental Sound Deepfake Detection Challenge: An Overview](https://arxiv.org/pdf/2512.24140), Han Yin, **Yang Xiao**, Rohan Kumar Das, Jisheng Bai, Ting Dang
+- **Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition**<br>
+  Daniel Chen, Qicong Hu, **<u>Yang Xiao</u>**, Ting Dang, Hong Jia<br>
+  ICML 2026 Workshop<br>
+  [[paper](https://arxiv.org/pdf/2606.08573)]
 
-### 2025
-- ``SPL 2025`` [Noise-Robust Sound Event Detection and Counting via Language-Queried Sound Separation](https://arxiv.org/pdf/2508.07176), Yuanjian Chen, **Yang Xiao**, Han Yin, Yadong Guan, Xubo Liu.
-- ``INTERSPEECH 2025`` [TF-Mamba: A Time-Frequency Network for Sound Source Localization](https://www.isca-archive.org/interspeech_2025/xiao25_interspeech.pdf), **Yang Xiao**, Rohan Kumar Das.
-- ``SPSC 2025``[Multilingual Source Tracing of Speech Deepfakes: A First Benchmark](https://arxiv.org/pdf/2508.04143), Xi Xuan, **Yang Xiao**, Rohan Kumar Das, Tomi Kinnunen.
-- ``APSIPA ASC 2025`` [RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing](https://arxiv.org/pdf/2507.08227), **Yang Xiao**, Ting Dang, Rohan Kumar Das.
-- ``ICASSP 2025`` [Exploring Text-Queried Sound Event Detection with Audio Source Separation](https://ieeexplore.ieee.org/abstract/document/10889789/), Han Yin, Jisheng Bai, **Yang Xiao**, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen.
+</details>
 
-### Before 2024
-- ``INTERSPEECH 2023`` [Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness](https://www.isca-archive.org/interspeech_2023/ng23b_interspeech.pdf), Dianwen Ng, **Yang Xiao**, Jia Qi Yip, Zhao Yang, Biao Tian, Qiang Fu, Eng Siong Chng, Bin Ma.
+<details class="pub-group" markdown="1">
+<summary>Continual Learning</summary>
 
+- **Continual Adaptation for Pacific Indigenous Speech Recognition**<br>
+  **<u>Yang Xiao</u>**, Aso Mahmudi, Nick Thieberger, Eliathamby Ambikairajah, Eun-Jung Holden, Ting Dang<br>
+  INTERSPEECH 2026<br>
+  [[paper](https://arxiv.org/pdf/2603.06310)]
+
+- **Adapting Where It Matters: Depth-Aware Adaptation for Efficient Multilingual Speech Recognition in Low-Resource Languages**<br>
+  **<u>Yang Xiao</u>**, Eun-Jung Holden, Ting Dang<br>
+  ACL 2026<br>
+  [[paper](https://arxiv.org/pdf/2602.01008)]
+
+- **AFT: An Exemplar-Free Class Incremental Learning Method for Environmental Sound Classification**<br>
+  Xinyi Chen, Xi Chen, Zhenyu Weng, **<u>Yang Xiao</u>**<br>
+  ICASSP 2026<br>
+  [[paper](https://arxiv.org/pdf/2509.15523)]
+
+- **Listen, Analyze, and Adapt to Learn New Attacks: An Exemplar-Free Class Incremental Learning Method for Audio Deepfake Source Tracing**<br>
+  **<u>Yang Xiao</u>**, Rohan Kumar Das<br>
+  INTERSPEECH 2025<br>
+  [[paper](https://www.isca-archive.org/interspeech_2025/xiao25c_interspeech.pdf)]
+
+- **AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting**<br>
+  **<u>Yang Xiao</u>**, Peng Tianyi, Rohan Kumar Das, Yuchen Hu, Huiping Zhuang<br>
+  ACL 2025<br>
+  [[paper](https://aclanthology.org/2025.findings-acl.728.pdf)]
+
+- **Where's That Voice Coming? Continual Learning for Sound Source Localization**<br>
+  **<u>Yang Xiao</u>**, Rohan Kumar Das<br>
+  ICME 2025<br>
+  [[paper](https://arxiv.org/pdf/2407.03661)]
+
+- **UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**<br>
+  **<u>Yang Xiao</u>**, Rohan Kumar Das<br>
+  ICASSP 2025<br>
+  [[paper](https://ieeexplore.ieee.org/document/10887631/)]
+
+- **Dark Experience for Incremental Keyword Spotting**<br>
+  Tianyi Peng, **<u>Yang Xiao</u>**<br>
+  ICASSP 2025<br>
+  [[paper](https://ieeexplore.ieee.org/document/10890228)]
+
+- **Continual Learning For On-Device Environmental Sound Classification**<br>
+  **<u>Yang Xiao</u>\***, Xubo Liu\*, James King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang<br>
+  DCASE 2022<br>
+  [[paper](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Xiao_47.pdf)]
+
+- **Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting**<br>
+  **<u>Yang Xiao</u>**, Nana Hou, Eng Siong Chng<br>
+  INTERSPEECH 2022<br>
+  [[paper](https://www.isca-archive.org/interspeech_2022/xiao22_interspeech.pdf)]
+
+</details>
+
+<details class="pub-group" markdown="1">
+<summary>Domain & Test-Time Adaptation</summary>
+
+- **QuaSR: Quality-Aware Sample Reweighting for Pacific Indigenous Speech Recognition**<br>
+  Yishun Li, **<u>Yang Xiao</u>**, Gongping Huang, Eun-Jung Holden, Nick Thieberger, Ting Dang<br>
+  SLT 2026<br>
+  [[paper](https://arxiv.org/pdf/2607.03658)]
+
+- **ImKWS: Test-Time Adaptation for Keyword Spotting with Class Imbalance**<br>
+  Hanyu Ding\*, **<u>Yang Xiao</u>\***, Jiaheng Dong, Ting Dang<br>
+  INTERSPEECH 2026<br>
+  [[paper](https://arxiv.org/pdf/2603.05821)]
+
+- **Activation Steering for Accent Adaptation in Large Audio Language Models**<br>
+  Jinuo Sun\*, **<u>Yang Xiao</u>\***, Sung Kyun Chung, Qiuchi Hu, Gongping Huang, Eun-Jung Holden, Ting Dang<br>
+  INTERSPEECH 2026<br>
+  [[paper](https://arxiv.org/pdf/2603.05813)]
+
+- **AdaKWS: Towards Robust Keyword Spotting with Test-Time Adaptation**<br>
+  **<u>Yang Xiao</u>**, Tianyi Peng, Yanghao Zhou, Rohan Kumar Das<br>
+  INTERSPEECH 2025<br>
+  [[paper](https://www.isca-archive.org/interspeech_2025/xiao25b_interspeech.pdf)]
+
+- **DG-SED: Domain Generalization for Sound Event Detection with Heterogeneous Training Data**<br>
+  **<u>Yang Xiao</u>**, Han Yin, Jisheng Bai, Rohan Kumar Das<br>
+  APSIPA ASC 2025<br>
+  [[paper](https://arxiv.org/abs/2407.03654)]
+
+- **WildDESED: An LLM-Powered Dataset for Wild Domestic Environment Sound Event Detection System**<br>
+  **<u>Yang Xiao</u>**, Rohan Kumar Das<br>
+  DCASE 2024<br>
+  [[paper](https://arxiv.org/pdf/2407.03656.pdf)]
+
+</details>
+
+<details class="pub-group" markdown="1">
+<summary>Audio Deepfake Detection</summary>
+
+- **The First Environmental Sound Deepfake Detection Challenge: Benchmarking Robustness, Evaluation, and Insights**<br>
+  Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Ting Dang<br>
+  INTERSPEECH 2026<br>
+  [[paper](https://arxiv.org/pdf/2603.04865)]
+
+- **Environmental Sound Deepfake Detection Challenge: An Overview**<br>
+  Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Ting Dang<br>
+  ICASSP 2026<br>
+  [[paper](https://arxiv.org/pdf/2512.24140)]
+
+- **Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**<br>
+  Xi Xuan, **<u>Yang Xiao</u>**, Rohan Kumar Das, Tomi Kinnunen<br>
+  SPSC 2025<br>
+  [[paper](https://arxiv.org/pdf/2508.04143)]
+
+- **RawTFNet: A Lightweight CNN Architecture for Speech Anti-spoofing**<br>
+  **<u>Yang Xiao</u>**, Ting Dang, Rohan Kumar Das<br>
+  APSIPA ASC 2025<br>
+  [[paper](https://arxiv.org/pdf/2507.08227)]
+
+</details>
+
+<details class="pub-group" markdown="1">
+<summary>Sound Event Detection & Localization</summary>
+
+- **Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification**<br>
+  Yuanjian Chen, **<u>Yang Xiao</u>**, Jinjie Huang<br>
+  ICASSP 2026<br>
+  [[paper](https://arxiv.org/pdf/2509.14893)]
+
+- **Noise-Robust Sound Event Detection and Counting via Language-Queried Sound Separation**<br>
+  Yuanjian Chen, **<u>Yang Xiao</u>**, Han Yin, Yadong Guan, Xubo Liu<br>
+  SPL 2025<br>
+  [[paper](https://arxiv.org/pdf/2508.07176)]
+
+- **TF-Mamba: A Time-Frequency Network for Sound Source Localization**<br>
+  **<u>Yang Xiao</u>**, Rohan Kumar Das<br>
+  INTERSPEECH 2025<br>
+  [[paper](https://www.isca-archive.org/interspeech_2025/xiao25_interspeech.pdf)]
+
+- **Exploring Text-Queried Sound Event Detection with Audio Source Separation**<br>
+  Han Yin, Jisheng Bai, **<u>Yang Xiao</u>**, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen<br>
+  ICASSP 2025<br>
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10889789/)]
+
+</details>
+
+<details class="pub-group" markdown="1">
+<summary>Others</summary>
+
+- **MoEScore: Mixture-of-Experts-Based Text-Audio Relevance Score Prediction for Text-to-Audio System Evaluation**<br>
+  Bochao Sun, **<u>Yang Xiao</u>**, Han Yin<br>
+  ICASSP 2026<br>
+  [[paper](https://arxiv.org/pdf/2601.06829)]
+
+- **Small Footprint Multi-channel Network for Keyword Spotting with Centroid Based Awareness**<br>
+  Dianwen Ng, **<u>Yang Xiao</u>**, Jia Qi Yip, Zhao Yang, Biao Tian, Qiang Fu, Eng Siong Chng, Bin Ma<br>
+  INTERSPEECH 2023<br>
+  [[paper](https://www.isca-archive.org/interspeech_2023/ng23b_interspeech.pdf)]
+
+</details>
+
+<p class="pub-note">* indicates equal contribution.</p>
 
 # 😁 Academic Services
 - Session Chair: ACL, APSIPA ASC, INTERSPEECH, ICASSP
