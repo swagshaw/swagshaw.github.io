@@ -62,6 +62,7 @@ Highlighted papers are shown first, followed by publications grouped by topic (c
 
 **<u>Yang Xiao</u>**, Siyi Wang, Han Yin, Hong Jia, Vidhyasaharan Sethu, Eun-Jung Holden, Ting Dang.
 
+[**Project**](https://swagshaw.github.io/EnvMem/)
 - EnvMem, a controlled multi-turn benchmark revealing that large audio language models fail to recall early non-speech acoustic cues, with representational trajectory drift as the key failure mode.
 </div>
 </div>
@@ -104,6 +105,11 @@ Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wa
 
 <details class="pub-group" markdown="1">
 <summary>Large Audio Language Models</summary>
+
+- **VoxTurn: Answering Several Turn-Taking Questions in One Pass with One Model**<br>
+  **<u>Yang Xiao</u>**<br>
+  Tech Report 2026<br>
+  [[paper](https://swagshaw.github.io/voxturn/tech_report.pdf)] [[project](https://swagshaw.github.io/voxturn/)] [[model](https://huggingface.co/AustinXiao/voxturn)]
 
 - **RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark**<br>
   Hongyu Jin\*, Siyi Wang\*, **<u>Yang Xiao</u>\***, Jiaheng Dong\*, Shihong Tan, Kaiyuan Peng, Georgiana Juravle, Shanquan Chen, Gongping Huang, Hong Jia, Eun-Jung Holden, James Bailey, Ting Dang<br>
