@@ -67,6 +67,18 @@ Highlighted papers are shown first, followed by publications grouped by topic (c
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='/images/RAIL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark](https://arxiv.org/pdf/2606.11260)
+
+Hongyu Jin\*, Siyi Wang\*, **<u>Yang Xiao</u>\***, Jiaheng Dong\*, Shihong Tan, Kaiyuan Peng, Georgiana Juravle, Shanquan Chen, Gongping Huang, Hong Jia, Eun-Jung Holden, James Bailey, Ting Dang.
+
+[**Project**](https://aims-rail.github.io/RAIL/) | [**Code**](https://github.com/AIMS-RAIL/RAIL) | [**Dataset**](https://huggingface.co/datasets/AIMS-RAIL/RAIL)
+- A CHC-grounded benchmark covering 5 capabilities and 32 subcapabilities with 5,306 audio samples, evaluating 26 LALMs against a human baseline.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='/images/VoxMem.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,11 +122,6 @@ Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wa
   **<u>Yang Xiao</u>**<br>
   Tech Report 2026<br>
   [[paper](https://swagshaw.github.io/voxturn/tech_report.pdf)] [[project](https://swagshaw.github.io/voxturn/)] [[model](https://huggingface.co/AustinXiao/voxturn)]
-
-- **RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark**<br>
-  Hongyu Jin\*, Siyi Wang\*, **<u>Yang Xiao</u>\***, Jiaheng Dong\*, Shihong Tan, Kaiyuan Peng, Georgiana Juravle, Shanquan Chen, Gongping Huang, Hong Jia, Eun-Jung Holden, James Bailey, Ting Dang<br>
-  NeurIPS 2026<br>
-  [[paper](https://arxiv.org/pdf/2606.11260)] [[code](https://github.com/AIMS-RAIL/RAIL)] [[project](https://aims-rail.github.io/RAIL/)] [[dataset](https://huggingface.co/datasets/AIMS-RAIL/RAIL)]
 
 - **PolyBench: A Benchmark for Compositional Reasoning in Polyphonic Audio**<br>
   Yuanjian Chen\*, **<u>Yang Xiao</u>\***, Han Yin\*, Xubo Liu, Jinjie Huang, Ting Dang<br>
