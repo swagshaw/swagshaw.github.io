@@ -86,7 +86,7 @@ Highlighted papers are shown first, followed by publications grouped by topic (c
 
 Han Yin, **<u>Yang Xiao</u>**, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D Plumbley.
 
-[**Project**](https://envsdd.github.io/) | [**Code**](https://github.com/apple-yinhan/EnvSDD/)
+[**Project**](https://envsdd.github.io/) | [**Code**](https://github.com/apple-yinhan/EnvSDD/) | [**Dataset**](https://huggingface.co/datasets/EnvSDD/EnvSDD)
 - The first large-scale curated dataset designed for Environmental Sound Deepfake Detection.
 </div>
 </div>
